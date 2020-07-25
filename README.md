@@ -6,7 +6,7 @@
 
 Chart is completely dynamic and depends on viewers count
 
-![Projects Screen]()
+![Projects Screen](./assets/pathway.png)
 
 ![Pathway Screen]()
 

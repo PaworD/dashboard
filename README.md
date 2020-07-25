@@ -2,7 +2,7 @@
 
 ## Dashboard to My Portfolio Site
 
-![Views Screen]()
+![Views Screen](./src/assets/views.png)
 
 Chart is completely dynamic and depends on viewers count
 

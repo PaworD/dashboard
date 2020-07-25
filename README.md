@@ -8,7 +8,7 @@ Chart is completely dynamic and depends on viewers count
 
 ![Projects Screen](./src/assets/pathway.png)
 
-![Pathway Screen]()
+![Pathway Screen](./src/assets/projects.png)
 
 ## Tasks left to do
 

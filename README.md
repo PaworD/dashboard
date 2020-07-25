@@ -1,29 +1,18 @@
-# blog_dash
+# Javlon Dash.
 
-## Project setup
-```
-npm install
-```
+## Dashboard to My Portfolio Site
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Views Screen]()
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Chart is completely dynamic and depends on viewers count
 
-### Run your tests
-```
-npm run test
-```
+![Projects Screen]()
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Pathway Screen]()
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tasks left to do
+
+- [x] real time projects/pathways update suppoerted
+- [x] storing images and accessing through dashboard
+- [ ] create **Code Share** screen 
+- [ ] Implement own plugin support 

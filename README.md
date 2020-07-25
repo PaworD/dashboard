@@ -12,7 +12,7 @@ Chart is completely dynamic and depends on viewers count
 
 ## Tasks left to do
 
-- [x] real time projects/pathways update suppoerted
+- [x] real time projects/pathways update supported
 - [x] storing images and accessing through dashboard
 - [ ] create **Code Share** screen 
 - [ ] Implement own plugin support 
